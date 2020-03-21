@@ -1,0 +1,71 @@
+[Monday Aug 25 0:24:02 2014] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[Monday Aug 25 0:24:02 2014]          Dragon Age Origins Ultimate addins.xml updater ran
+[Monday Aug 25 0:24:02 2014] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[Monday Aug 25 0:24:02 2014] Command-line Paramters [/programlocation="D:\Dragon_Age_Origins\Dragon Age" /addins="BioWare\Dragon Age\Settings\addins.xml" /offers="BioWare\Dragon Age\Settings\offers.xml" /S]
+[Monday Aug 25 0:24:02 2014] AddIns File = [BioWare\Dragon Age\Settings\addins.xml]
+[Monday Aug 25 0:24:02 2014] Offers File = [BioWare\Dragon Age\Settings\offers.xml]
+[Monday Aug 25 0:24:02 2014] AddIns Folder = [BioWare\Dragon Age\Settings]
+[Monday Aug 25 0:24:02 2014] Program Location = [D:\Dragon_Age_Origins\Dragon Age]
+[Monday Aug 25 0:24:02 2014] Folder C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings not found. Creating it.
+[Monday Aug 25 0:24:02 2014] No C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml found. Copying over blank AddIns.xml.
+[Monday Aug 25 0:24:02 2014] No C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\offers.xml found. Copying over blank Offers.xml.
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with addins\dao_prc_ep_1\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_cp_1\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\offers.xml with Offers\dao_prc_ocp_1\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [Offers.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_cp_2\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\offers.xml with Offers\dao_prc_ocp_2\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [Offers.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_cp_3\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_cp_7\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\offers.xml with Offers\dao_prc_ocp_13\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [Offers.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_drk\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_drk_dao\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_drk_ep1\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\offers.xml with Offers\dao_prc_drk_o\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [Offers.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_gib\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_gib_dao\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_gib_ep1\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\offers.xml with Offers\dao_prc_gib_o\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [Offers.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_lel\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_lel_dao\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_lel_ep1\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\offers.xml with Offers\dao_prc_lel_o\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [Offers.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_nrx_1\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\offers.xml with Offers\dao_prc_onrx_1\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [Offers.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_promo_me\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\offers.xml with Offers\DAO_PRC_OPROMO_ME\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [Offers.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_str\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_str_dao\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\addins.xml with Addins\dao_prc_str_ep1\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [AddIns.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] Updating C:\Users\Aubin\Documents\BioWare\Dragon Age\Settings\offers.xml with Offers\dao_prc_str_o\manifest.xml
+[Monday Aug 25 0:24:02 2014] Results [0] [Offers.xml successfully updated.]
+[Monday Aug 25 0:24:02 2014] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[Monday Aug 25 0:24:02 2014] |         Dragon Age Origins Ultimate addins.xml finished
+[Monday Aug 25 0:24:02 2014] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
